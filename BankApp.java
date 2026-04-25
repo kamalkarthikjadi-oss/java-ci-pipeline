@@ -29,7 +29,7 @@ public class BankApp{
 		b1.balance=0;
 		b1.deposit(2000);
 		b1.withdraw(500);
-		b1.Display();
+		
 		
 	}
 }
